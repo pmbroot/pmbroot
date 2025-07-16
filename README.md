@@ -46,8 +46,8 @@ I’m driven by curiosity, committed to self-learning, and believe in creative p
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=django" alt="VSCode" />
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
     </a>
 </p>
 
